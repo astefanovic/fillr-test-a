@@ -1,1 +1,13 @@
-// Paste formatted JSON hash here. 
+{
+    "email": "section-amazon billing email",
+    "name": "section-amazon billing name",
+    "addr1": "section-amazon billing address-line1",
+    "addr2": "section-amazon billing address-line2",
+    "city": "section-amazon billing address-level2",
+    "state": "section-amazon billing address-level1",
+    "zip": "section-amazon billing postal-code",
+    "country": "section-amazon billing country-name",
+    "phone": "section-amazon billing tel-national",
+}
+    
+    
