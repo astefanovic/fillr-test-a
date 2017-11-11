@@ -20,7 +20,6 @@ module.exports.extract = function(window) {
 	elements = elements.concat(Object.keys(elementObject).map((key) => {
 	    return elementObject[key];
 	}));
-	console.log(elements);
     });
 
     // Variables for the final metadata, label and input strings
