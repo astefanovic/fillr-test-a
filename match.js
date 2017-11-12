@@ -1,8 +1,8 @@
 module.exports.match = function(hash) {
 
-    // Checking for date and card in each key,
+    // Checking for date and card or cc in each key,
     // case insensitive
-    const re = /(card.*date)|(date.*card)/i;
+    const re = /(c(c|ard).*date)|(date.*c(c|ard))/i;
     // Array for regex matches to be pushed to
     let matches = [];
 
